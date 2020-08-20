@@ -1,0 +1,41 @@
+Welcome to the Dijkstra Integer program!
+The graph has the following nodes 
+The format looks like: node----connectingNode(weight): 
+0----1(8)
+0----8(8)
+1----2(11)
+1----3(8)
+2----1(11)
+2----3(2)
+2----7(6)
+3----1(8)
+3----2(2)
+3----4(7)
+4----3(7)
+4----5(14)
+4----6(5)
+5----4(14)
+5----6(4)
+5----7(2)
+6----4(5)
+6----5(4)
+7----2(6)
+7----5(2)
+7----8(1)
+8----0(8)
+8----7(1)
+This is the graph/vertices you are given: 
+Please enter a value from 0-8, of what you want to find the shortest path to: 7
+Minimum distances from vertex: 7
+Vertext: 0	Distance: 9
+Vertext: 1	Distance: 13
+Vertext: 2	Distance: 6
+Vertext: 3	Distance: 8
+Vertext: 4	Distance: 11
+Vertext: 5	Distance: 2
+Vertext: 6	Distance: 6
+Vertext: 7	Distance: 0
+Vertext: 8	Distance: 1
+
+...Program finished with exit code 0                                                                                 
+Press ENTER to exit console.  
