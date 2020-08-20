@@ -1,5 +1,5 @@
 # A4-Part-II-Q1
-includes: Dijkstra.cpp, README.md (This is the current file you're on), printOut.md.
+includes: Dijkstra.cpp, README.md (This is the current file you're on), printOut.
 
 Dijkstra.cpp:
 
@@ -18,4 +18,4 @@ Once it finds the shortest distance, it goes to the next node and it's paired we
 
 After it finds all the nodes, then it will print it out.
 
-printOut.md: is the output text.log from running the program.
+printOut: is the output text.log from running the program.
